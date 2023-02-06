@@ -1,0 +1,8 @@
+#A.J. Czerniak
+#Feb 6 2023
+
+Penguin:
+
+-Flightless birds.
+-Can swim.
+-Only found in artic enviornments or other specialized areas.
